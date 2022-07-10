@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color_yellow">#ffd500</color>
+    <color name="secondary_color_purple">#9900FF</color>
+    <color name="tertiary_color_black">#2f2f2f</color>
+    <color name="gold">#998000</color>
+    <color name="purple">#5c0099</color>
+    <color name="black">#FF000000</color>
+    <color name="minion_yellow">#FFE666</color>
+    <color name="heliotrofe">#c266ff</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="white">#FFFFFF</color>
+</resources>
